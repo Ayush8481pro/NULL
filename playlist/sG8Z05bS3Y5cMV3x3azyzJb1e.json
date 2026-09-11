@@ -84,6 +84,94 @@
     "Id": "sony-ten-5"
   },
   {
+    "Cat": "SONY",
+    "Id": "1396"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "291"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "154"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "471"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "474"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "1393"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "476"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3418"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "483"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "872"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "762"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "852"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "821"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "853"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "854"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "873"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "874"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "697"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "1146"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3420"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3424"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3423"
+  },
+  {
     "Cat": "MOVIES",
     "Id": "156"
   },
@@ -352,100 +440,188 @@
     "Id": "0-9-bigmagic_1786965389"
   },
   {
-    "Cat": "KIDS",
-    "Id": "545"
+    "Cat": "Zee5",
+    "Id": "0-9-zeetv"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1226"
+    "Cat": "Zee5",
+    "Id": "0-9-zeetvhd"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1373"
+    "Cat": "Zee5",
+    "Id": "0-9-zeeanmol"
   },
   {
-    "Cat": "KIDS",
-    "Id": "3578"
+    "Cat": "Zee5",
+    "Id": "0-9-zeecinema"
   },
   {
-    "Cat": "KIDS",
-    "Id": "378"
+    "Cat": "Zee5",
+    "Id": "0-9-zeeclassic"
   },
   {
-    "Cat": "KIDS",
-    "Id": "35478"
+    "Cat": "Zee5",
+    "Id": "0-9-zeeanmolcinema"
   },
   {
-    "Cat": "KIDS",
-    "Id": "30058"
+    "Cat": "Zee5",
+    "Id": "0-9-bigganga"
   },
   {
-    "Cat": "KIDS",
-    "Id": "350058"
+    "Cat": "Zee5",
+    "Id": "0-9-pictures"
   },
   {
-    "Cat": "KIDS",
-    "Id": "350078"
+    "Cat": "Zee5",
+    "Id": "0-9-tvpictureshd"
   },
   {
-    "Cat": "KIDS",
-    "Id": "357678"
+    "Cat": "Zee5",
+    "Id": "0-9-tvhd_0"
   },
   {
-    "Cat": "KIDS",
-    "Id": "325778"
+    "Cat": "Zee5",
+    "Id": "0-9-tvhd"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1391"
+    "Cat": "Zee5",
+    "Id": "0-9-209"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1392"
+    "Cat": "Zee5",
+    "Id": "0-9-216"
   },
   {
-    "Cat": "KIDS",
-    "Id": "816"
+    "Cat": "Zee5",
+    "Id": "0-9-348"
   },
   {
-    "Cat": "KIDS",
-    "Id": "3436"
+    "Cat": "Zee5",
+    "Id": "0-9-zeenews"
   },
   {
-    "Cat": "KIDS",
-    "Id": "559"
+    "Cat": "Zee5",
+    "Id": "0-9-channel_265145625"
   },
   {
-    "Cat": "KIDS",
-    "Id": "815"
+    "Cat": "Zee5",
+    "Id": "0-9-zeebusiness"
   },
   {
-    "Cat": "KIDS",
-    "Id": "554"
+    "Cat": "Zee5",
+    "Id": "0-9-zeehindustan"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1374"
+    "Cat": "Zee5",
+    "Id": "0-9-24ghantatv"
   },
   {
-    "Cat": "KIDS",
-    "Id": "1375"
+    "Cat": "Zee5",
+    "Id": "0-9-zee24kalak"
   },
   {
-    "Cat": "KIDS",
-    "Id": "548"
+    "Cat": "Zee5",
+    "Id": "0-9-zee24taas"
   },
   {
-    "Cat": "KIDS",
-    "Id": "2774"
+    "Cat": "Zee5",
+    "Id": "0-9-zeebiharjharkhand"
   },
   {
-    "Cat": "KIDS",
-    "Id": "3385"
+    "Cat": "Zee5",
+    "Id": "0-9-zeekalinganews"
   },
   {
-    "Cat": "KIDS",
-    "Id": "3321"
+    "Cat": "Zee5",
+    "Id": "0-9-zeemadhyapradeshchat"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z583537"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z583538"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeepunjabharyanahima"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeerajasthannews"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383484"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeebanglacinema"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383488"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383466"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-129"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383486"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383486"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-241"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-215"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-sarthaktv"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383489"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetalkies"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383487"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383485"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetelugu"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-224"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeyuva"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zing"
   },
   {
     "Cat": "SPORTS",
@@ -592,726 +768,6 @@
     "Id": "204"
   },
   {
-    "Cat": "Bhojpuri",
-    "Id": "207681"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "661"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "693"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "741"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "883"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "1296"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "0-9-216"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "1798"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "1925"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "2229"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "3069"
-  },
-  {
-    "Cat": "Bhojpuri",
-    "Id": "3384"
-  },
-  {
-    "Cat": "News",
-    "Id": "173"
-  },
-  {
-    "Cat": "News",
-    "Id": "137993"
-  },
-  {
-    "Cat": "News",
-    "Id": "177"
-  },
-  {
-    "Cat": "News",
-    "Id": "202"
-  },
-  {
-    "Cat": "News",
-    "Id": "203"
-  },
-  {
-    "Cat": "News",
-    "Id": "231"
-  },
-  {
-    "Cat": "News",
-    "Id": "235"
-  },
-  {
-    "Cat": "News",
-    "Id": "258"
-  },
-  {
-    "Cat": "News",
-    "Id": "498"
-  },
-  {
-    "Cat": "News",
-    "Id": "499"
-  },
-  {
-    "Cat": "News",
-    "Id": "501"
-  },
-  {
-    "Cat": "News",
-    "Id": "502"
-  },
-  {
-    "Cat": "News",
-    "Id": "503"
-  },
-  {
-    "Cat": "News",
-    "Id": "504"
-  },
-  {
-    "Cat": "News",
-    "Id": "510"
-  },
-  {
-    "Cat": "News",
-    "Id": "511"
-  },
-  {
-    "Cat": "News",
-    "Id": "512"
-  },
-  {
-    "Cat": "News",
-    "Id": "513"
-  },
-  {
-    "Cat": "News",
-    "Id": "515"
-  },
-  {
-    "Cat": "News",
-    "Id": "516"
-  },
-  {
-    "Cat": "News",
-    "Id": "518"
-  },
-  {
-    "Cat": "News",
-    "Id": "519"
-  },
-  {
-    "Cat": "News",
-    "Id": "520"
-  },
-  {
-    "Cat": "News",
-    "Id": "522"
-  },
-  {
-    "Cat": "News",
-    "Id": "528"
-  },
-  {
-    "Cat": "News",
-    "Id": "529"
-  },
-  {
-    "Cat": "News",
-    "Id": "530"
-  },
-  {
-    "Cat": "News",
-    "Id": "531"
-  },
-  {
-    "Cat": "News",
-    "Id": "536"
-  },
-  {
-    "Cat": "News",
-    "Id": "538"
-  },
-  {
-    "Cat": "News",
-    "Id": "539"
-  },
-  {
-    "Cat": "News",
-    "Id": "540"
-  },
-  {
-    "Cat": "News",
-    "Id": "572"
-  },
-  {
-    "Cat": "News",
-    "Id": "652"
-  },
-  {
-    "Cat": "News",
-    "Id": "655"
-  },
-  {
-    "Cat": "News",
-    "Id": "658"
-  },
-  {
-    "Cat": "News",
-    "Id": "659"
-  },
-  {
-    "Cat": "News",
-    "Id": "724"
-  },
-  {
-    "Cat": "News",
-    "Id": "768"
-  },
-  {
-    "Cat": "News",
-    "Id": "770"
-  },
-  {
-    "Cat": "News",
-    "Id": "783"
-  },
-  {
-    "Cat": "News",
-    "Id": "788"
-  },
-  {
-    "Cat": "News",
-    "Id": "789"
-  },
-  {
-    "Cat": "News",
-    "Id": "791"
-  },
-  {
-    "Cat": "News",
-    "Id": "792"
-  },
-  {
-    "Cat": "News",
-    "Id": "804"
-  },
-  {
-    "Cat": "News",
-    "Id": "808"
-  },
-  {
-    "Cat": "News",
-    "Id": "831"
-  },
-  {
-    "Cat": "News",
-    "Id": "846"
-  },
-  {
-    "Cat": "News",
-    "Id": "850"
-  },
-  {
-    "Cat": "News",
-    "Id": "851"
-  },
-  {
-    "Cat": "News",
-    "Id": "855"
-  },
-  {
-    "Cat": "News",
-    "Id": "880"
-  },
-  {
-    "Cat": "News",
-    "Id": "882"
-  },
-  {
-    "Cat": "News",
-    "Id": "915"
-  },
-  {
-    "Cat": "News",
-    "Id": "916"
-  },
-  {
-    "Cat": "News",
-    "Id": "918"
-  },
-  {
-    "Cat": "News",
-    "Id": "921"
-  },
-  {
-    "Cat": "News",
-    "Id": "927"
-  },
-  {
-    "Cat": "News",
-    "Id": "936"
-  },
-  {
-    "Cat": "News",
-    "Id": "957"
-  },
-  {
-    "Cat": "News",
-    "Id": "958"
-  },
-  {
-    "Cat": "News",
-    "Id": "975"
-  },
-  {
-    "Cat": "News",
-    "Id": "1059"
-  },
-  {
-    "Cat": "News",
-    "Id": "1179"
-  },
-  {
-    "Cat": "News",
-    "Id": "1185"
-  },
-  {
-    "Cat": "News",
-    "Id": "1205"
-  },
-  {
-    "Cat": "News",
-    "Id": "1251"
-  },
-  {
-    "Cat": "News",
-    "Id": "1257"
-  },
-  {
-    "Cat": "News",
-    "Id": "1263"
-  },
-  {
-    "Cat": "News",
-    "Id": "1287"
-  },
-  {
-    "Cat": "News",
-    "Id": "1328"
-  },
-  {
-    "Cat": "News",
-    "Id": "1329"
-  },
-  {
-    "Cat": "News",
-    "Id": "1403"
-  },
-  {
-    "Cat": "News",
-    "Id": "1408"
-  },
-  {
-    "Cat": "News",
-    "Id": "1431"
-  },
-  {
-    "Cat": "News",
-    "Id": "1498"
-  },
-  {
-    "Cat": "News",
-    "Id": "1499"
-  },
-  {
-    "Cat": "News",
-    "Id": "1501"
-  },
-  {
-    "Cat": "News",
-    "Id": "1502"
-  },
-  {
-    "Cat": "News",
-    "Id": "1503"
-  },
-  {
-    "Cat": "News",
-    "Id": "1504"
-  },
-  {
-    "Cat": "News",
-    "Id": "1505"
-  },
-  {
-    "Cat": "News",
-    "Id": "1525"
-  },
-  {
-    "Cat": "News",
-    "Id": "1528"
-  },
-  {
-    "Cat": "News",
-    "Id": "1550"
-  },
-  {
-    "Cat": "News",
-    "Id": "1551"
-  },
-  {
-    "Cat": "News",
-    "Id": "1553"
-  },
-  {
-    "Cat": "News",
-    "Id": "1594"
-  },
-  {
-    "Cat": "News",
-    "Id": "1635"
-  },
-  {
-    "Cat": "News",
-    "Id": "1670"
-  },
-  {
-    "Cat": "News",
-    "Id": "1695"
-  },
-  {
-    "Cat": "News",
-    "Id": "1697"
-  },
-  {
-    "Cat": "News",
-    "Id": "1698"
-  },
-  {
-    "Cat": "News",
-    "Id": "1728"
-  },
-  {
-    "Cat": "News",
-    "Id": "1741"
-  },
-  {
-    "Cat": "News",
-    "Id": "1761"
-  },
-  {
-    "Cat": "News",
-    "Id": "1793"
-  },
-  {
-    "Cat": "News",
-    "Id": "1804"
-  },
-  {
-    "Cat": "News",
-    "Id": "1817"
-  },
-  {
-    "Cat": "News",
-    "Id": "1853"
-  },
-  {
-    "Cat": "News",
-    "Id": "1854"
-  },
-  {
-    "Cat": "News",
-    "Id": "1886"
-  },
-  {
-    "Cat": "News",
-    "Id": "1895"
-  },
-  {
-    "Cat": "News",
-    "Id": "1896"
-  },
-  {
-    "Cat": "News",
-    "Id": "1897"
-  },
-  {
-    "Cat": "News",
-    "Id": "1900"
-  },
-  {
-    "Cat": "News",
-    "Id": "1906"
-  },
-  {
-    "Cat": "News",
-    "Id": "1959"
-  },
-  {
-    "Cat": "News",
-    "Id": "1964"
-  },
-  {
-    "Cat": "News",
-    "Id": "1965"
-  },
-  {
-    "Cat": "News",
-    "Id": "1999"
-  },
-  {
-    "Cat": "News",
-    "Id": "2005"
-  },
-  {
-    "Cat": "News",
-    "Id": "2008"
-  },
-  {
-    "Cat": "News",
-    "Id": "2014"
-  },
-  {
-    "Cat": "News",
-    "Id": "2020"
-  },
-  {
-    "Cat": "News",
-    "Id": "2021"
-  },
-  {
-    "Cat": "News",
-    "Id": "2079"
-  },
-  {
-    "Cat": "News",
-    "Id": "2081"
-  },
-  {
-    "Cat": "News",
-    "Id": "2082"
-  },
-  {
-    "Cat": "News",
-    "Id": "2176"
-  },
-  {
-    "Cat": "News",
-    "Id": "2225"
-  },
-  {
-    "Cat": "News",
-    "Id": "2254"
-  },
-  {
-    "Cat": "News",
-    "Id": "2255"
-  },
-  {
-    "Cat": "News",
-    "Id": "2323"
-  },
-  {
-    "Cat": "News",
-    "Id": "2353"
-  },
-  {
-    "Cat": "News",
-    "Id": "2423"
-  },
-  {
-    "Cat": "News",
-    "Id": "2433"
-  },
-  {
-    "Cat": "News",
-    "Id": "2764"
-  },
-  {
-    "Cat": "News",
-    "Id": "2765"
-  },
-  {
-    "Cat": "News",
-    "Id": "2767"
-  },
-  {
-    "Cat": "News",
-    "Id": "2770"
-  },
-  {
-    "Cat": "News",
-    "Id": "2771"
-  },
-  {
-    "Cat": "News",
-    "Id": "2772"
-  },
-  {
-    "Cat": "News",
-    "Id": "2773"
-  },
-  {
-    "Cat": "News",
-    "Id": "2777"
-  },
-  {
-    "Cat": "News",
-    "Id": "2851"
-  },
-  {
-    "Cat": "News",
-    "Id": "2937"
-  },
-  {
-    "Cat": "News",
-    "Id": "2945"
-  },
-  {
-    "Cat": "News",
-    "Id": "2946"
-  },
-  {
-    "Cat": "News",
-    "Id": "2954"
-  },
-  {
-    "Cat": "News",
-    "Id": "2957"
-  },
-  {
-    "Cat": "News",
-    "Id": "3007"
-  },
-  {
-    "Cat": "News",
-    "Id": "3014"
-  },
-  {
-    "Cat": "News",
-    "Id": "3016"
-  },
-  {
-    "Cat": "News",
-    "Id": "3017"
-  },
-  {
-    "Cat": "News",
-    "Id": "3024"
-  },
-  {
-    "Cat": "News",
-    "Id": "3025"
-  },
-  {
-    "Cat": "News",
-    "Id": "3026"
-  },
-  {
-    "Cat": "News",
-    "Id": "3039"
-  },
-  {
-    "Cat": "News",
-    "Id": "3041"
-  },
-  {
-    "Cat": "News",
-    "Id": "3042"
-  },
-  {
-    "Cat": "News",
-    "Id": "3049"
-  },
-  {
-    "Cat": "News",
-    "Id": "3050"
-  },
-  {
-    "Cat": "News",
-    "Id": "3053"
-  },
-  {
-    "Cat": "News",
-    "Id": "3063"
-  },
-  {
-    "Cat": "News",
-    "Id": "3064"
-  },
-  {
-    "Cat": "News",
-    "Id": "3065"
-  },
-  {
-    "Cat": "News",
-    "Id": "3066"
-  },
-  {
-    "Cat": "News",
-    "Id": "3068"
-  },
-  {
-    "Cat": "News",
-    "Id": "3070"
-  },
-  {
-    "Cat": "News",
-    "Id": "3086"
-  },
-  {
-    "Cat": "News",
-    "Id": "3090"
-  },
-  {
-    "Cat": "News",
-    "Id": "3106"
-  },
-  {
-    "Cat": "News",
-    "Id": "3191"
-  },
-  {
-    "Cat": "News",
-    "Id": "3219"
-  },
-  {
-    "Cat": "News",
-    "Id": "3220"
-  },
-  {
-    "Cat": "News",
-    "Id": "3494"
-  },
-  {
     "Cat": "Music",
     "Id": "183"
   },
@@ -1398,93 +854,5 @@
   {
     "Cat": "Music",
     "Id": "3074"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "1396"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "291"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "154"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "471"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "474"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "1393"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "476"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3418"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "483"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "872"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "762"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "852"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "821"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "853"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "854"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "873"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "874"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "697"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "1146"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3420"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3424"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3423"
   }
 ]
