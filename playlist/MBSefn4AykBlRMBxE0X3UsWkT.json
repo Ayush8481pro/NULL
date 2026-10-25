@@ -41,15 +41,7 @@
   },
   {
     "Cat": "STAR",
-    "Id": "3267"
-  },
-  {
-    "Cat": "STAR",
     "Id": "3100"
-  },
-  {
-    "Cat": "STAR",
-    "Id": "3276"
   },
   {
     "Cat": "STAR",
@@ -57,307 +49,11 @@
   },
   {
     "Cat": "STAR",
-    "Id": "1115"
-  },
-  {
-    "Cat": "STAR",
-    "Id": "1110"
-  },
-  {
-    "Cat": "STAR",
-    "Id": "1104"
-  },
-  {
-    "Cat": "STAR",
-    "Id": "368"
-  },
-  {
-    "Cat": "STAR",
     "Id": "336"
-  },
-  {
-    "Cat": "STAR",
-    "Id": "317"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "848188"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481471"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "84811146"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481474"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481697"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481872"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481476"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-max"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "84811393"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481483"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "8481762"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-1-hd"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-1"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-2-hd"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-2"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-3-hd"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-3"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-4-hd"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-4"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-5-hd"
-  },
-  {
-    "Cat": "SonyLiv",
-    "Id": "sony-ten-5"
   },
   {
     "Cat": "SonyLiv",
     "Id": "852"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeetv"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeetvhd"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeeanmol"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeecinema"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeecinemahd"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeeclassic"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeeaction"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-176"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeeanmolcinema"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-bigganga"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-pictures"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-tvpictureshd"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-tvhd_0"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-tvhd"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-209"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-bigmagic_1786965389"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-216"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-348"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeenews"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-channel_265145625"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeebusiness"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeehindustan"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-24ghantatv"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zee24kalak"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zee24taas"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeebiharjharkhand"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeekalinganews"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeemadhyapradeshchat"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z583537"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z583538"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeepunjabharyanahima"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeerajasthannews"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383484"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeebanglacinema"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383488"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383466"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-129"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-241"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-215"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-sarthaktv"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383489"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeetalkies"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383487"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-9z5383485"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeetelugu"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-224"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zeeyuva"
-  },
-  {
-    "Cat": "Zee5",
-    "Id": "0-9-zing"
   },
   {
     "Cat": "COLORS",
@@ -389,63 +85,11 @@
   },
   {
     "Cat": "COLORS",
-    "Id": "429"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1371"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1657"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1632"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1370"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1369"
-  },
-  {
-    "Cat": "COLORS",
     "Id": "1326"
   },
   {
     "Cat": "COLORS",
-    "Id": "1325"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1324"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "1158"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "785"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "757"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "756"
-  },
-  {
-    "Cat": "COLORS",
     "Id": "755"
-  },
-  {
-    "Cat": "COLORS",
-    "Id": "196"
   },
   {
     "Cat": "SONY",
@@ -481,23 +125,7 @@
   },
   {
     "Cat": "SONY",
-    "Id": "762"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "697"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "853"
-  },
-  {
-    "Cat": "SONY",
     "Id": "854"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "873"
   },
   {
     "Cat": "SONY",
@@ -506,18 +134,6 @@
   {
     "Cat": "SONY",
     "Id": "1146"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3420"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3424"
-  },
-  {
-    "Cat": "SONY",
-    "Id": "3423"
   },
   {
     "Cat": "SONY",
@@ -530,5 +146,773 @@
   {
     "Cat": "SONY",
     "Id": "1393"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1125"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "289"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "484"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "165"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1839"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1154"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1119"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "185"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "415"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "2761"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1295"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "182"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "487"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "488"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1691"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "0001076"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "011176"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "0122176"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "1668"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "3075"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "0176"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "09176"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "092176"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "3345"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "3544"
+  },
+  {
+    "Cat": "Movies",
+    "Id": "3343"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1373"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "545"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1226"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "559"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "815"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "816"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "3436"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "554"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1374"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "548"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1375"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "2774"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "3385"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "35478"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "30058"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "350058"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "350078"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1391"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "1392"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "3321"
+  },
+  {
+    "Cat": "Kids",
+    "Id": "378"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "571"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "3458"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "575"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "3444"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "541"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "3453"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "527"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "3434"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "1471"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "146"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "578"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "2857"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "164"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "562"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "1335"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "1332"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "2437"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "566"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "3451"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "561"
+  },
+  {
+    "Cat": "Infotainment",
+    "Id": "1955"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "441"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "735"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1121"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1360"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "445"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "153"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1358"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "414"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1452"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "2424"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "9487064"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1342"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3034"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1346"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3454"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "695"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "612"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1394"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1293"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3095"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "232"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "2935"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "691"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "617"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1972"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "1273"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "442"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3463"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3167"
+  },
+  {
+    "Cat": "Marathi",
+    "Id": "3179"
+  },
+  {
+    "Cat": "Music",
+    "Id": "183"
+  },
+  {
+    "Cat": "Music",
+    "Id": "15483"
+  },
+  {
+    "Cat": "Music",
+    "Id": "250"
+  },
+  {
+    "Cat": "Music",
+    "Id": "440"
+  },
+  {
+    "Cat": "Music",
+    "Id": "587"
+  },
+  {
+    "Cat": "Music",
+    "Id": "591"
+  },
+  {
+    "Cat": "Music",
+    "Id": "592"
+  },
+  {
+    "Cat": "Music",
+    "Id": "2064"
+  },
+  {
+    "Cat": "Music",
+    "Id": "2252"
+  },
+  {
+    "Cat": "Music",
+    "Id": "2753"
+  },
+  {
+    "Cat": "Music",
+    "Id": "3074"
+  },
+  {
+    "Cat": "Entertainment",
+    "Id": "3022"
+  },
+  {
+    "Cat": "Entertainment",
+    "Id": "3382"
+  },
+  {
+    "Cat": "Entertainment",
+    "Id": "3383"
+  },
+  {
+    "Cat": "Entertainment",
+    "Id": "585"
+  },
+  {
+    "Cat": "Entertainment",
+    "Id": "2948"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "1351"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "167"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "1116"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "473"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "472"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "701"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "1359"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "27611"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "27551"
+  },
+  {
+    "Cat": "Shows",
+    "Id": "2545591"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "362"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1108"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "892"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "524"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1142"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1106"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1141"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1109"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1985"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1984"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1389"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "9624886"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "9624884"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "162"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "514"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "891"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "523"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "525"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "155"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "460"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1123"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "461"
+  },
+  {
+    "Cat": "SPORTS",
+    "Id": "1114"
+  },
+  {
+    "Cat": "News",
+    "Id": "173"
+  },
+  {
+    "Cat": "News",
+    "Id": "177"
+  },
+  {
+    "Cat": "News",
+    "Id": "137993"
+  },
+  {
+    "Cat": "News",
+    "Id": "231"
+  },
+  {
+    "Cat": "News",
+    "Id": "3483"
+  },
+  {
+    "Cat": "News",
+    "Id": "235"
+  },
+  {
+    "Cat": "News",
+    "Id": "258"
+  },
+  {
+    "Cat": "News",
+    "Id": "501"
+  },
+  {
+    "Cat": "News",
+    "Id": "502"
+  },
+  {
+    "Cat": "News",
+    "Id": "499"
+  },
+  {
+    "Cat": "News",
+    "Id": "504"
+  },
+  {
+    "Cat": "News",
+    "Id": "572"
+  },
+  {
+    "Cat": "News",
+    "Id": "792"
+  },
+  {
+    "Cat": "News",
+    "Id": "3066"
+  },
+  {
+    "Cat": "News",
+    "Id": "512"
+  },
+  {
+    "Cat": "News",
+    "Id": "2764"
+  },
+  {
+    "Cat": "News",
+    "Id": "1499"
+  },
+  {
+    "Cat": "News",
+    "Id": "1403"
+  },
+  {
+    "Cat": "News",
+    "Id": "1431"
+  },
+  {
+    "Cat": "News",
+    "Id": "1251"
+  },
+  {
+    "Cat": "News",
+    "Id": "1205"
+  },
+  {
+    "Cat": "News",
+    "Id": "936"
+  },
+  {
+    "Cat": "News",
+    "Id": "804"
+  },
+  {
+    "Cat": "News",
+    "Id": "652"
+  },
+  {
+    "Cat": "News",
+    "Id": "530"
+  },
+  {
+    "Cat": "News",
+    "Id": "498"
+  },
+  {
+    "Cat": "News",
+    "Id": "203"
+  },
+  {
+    "Cat": "News",
+    "Id": "202"
+  },
+  {
+    "Cat": "News",
+    "Id": "522"
+  },
+  {
+    "Cat": "News",
+    "Id": "520"
+  },
+  {
+    "Cat": "News",
+    "Id": "1906"
+  },
+  {
+    "Cat": "News",
+    "Id": "659"
+  },
+  {
+    "Cat": "News",
+    "Id": "531"
+  },
+  {
+    "Cat": "News",
+    "Id": "3494"
+  },
+  {
+    "Cat": "News",
+    "Id": "3502"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "486"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "1296"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "3384"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "3069"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "2229"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "1925"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "1745"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "1798"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "883"
+  },
+  {
+    "Cat": "Bhojpuri",
+    "Id": "741"
   }
 ]
