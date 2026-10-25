@@ -1,0 +1,534 @@
+[
+  {
+    "Cat": "STAR",
+    "Id": "156"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1113"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3097"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3096"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3098"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1132"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1143"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1136"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "931"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3099"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3267"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3100"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "3276"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1138"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1115"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1110"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "1104"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "368"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "336"
+  },
+  {
+    "Cat": "STAR",
+    "Id": "317"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "848188"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481471"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "84811146"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481474"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481697"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481872"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481476"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-max"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "84811393"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481483"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "8481762"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-1-hd"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-1"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-2-hd"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-2"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-3-hd"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-3"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-4-hd"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-4"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-5-hd"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "sony-ten-5"
+  },
+  {
+    "Cat": "SonyLiv",
+    "Id": "852"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetv"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetvhd"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeanmol"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeecinema"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeecinemahd"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeclassic"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeaction"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-176"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeanmolcinema"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-bigganga"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-pictures"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-tvpictureshd"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-tvhd_0"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-tvhd"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-209"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-bigmagic_1786965389"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-216"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-348"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeenews"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-channel_265145625"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeebusiness"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeehindustan"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-24ghantatv"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zee24kalak"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zee24taas"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeebiharjharkhand"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeekalinganews"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeemadhyapradeshchat"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z583537"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z583538"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeepunjabharyanahima"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeerajasthannews"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383484"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeebanglacinema"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383488"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383466"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-129"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-241"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-215"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-sarthaktv"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383489"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetalkies"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383487"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-9z5383485"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeetelugu"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-224"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zeeyuva"
+  },
+  {
+    "Cat": "Zee5",
+    "Id": "0-9-zing"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "144"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "279"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "482"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1368"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1450"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1763"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1477"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "429"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1371"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1657"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1632"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1370"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1369"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1326"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1325"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1324"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "1158"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "785"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "757"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "756"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "755"
+  },
+  {
+    "Cat": "COLORS",
+    "Id": "196"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "154"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "471"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "474"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3418"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "476"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "483"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "872"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "821"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "762"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "697"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "853"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "854"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "873"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "874"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "1146"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3420"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3424"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "3423"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "1396"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "291"
+  },
+  {
+    "Cat": "SONY",
+    "Id": "1393"
+  }
+]
